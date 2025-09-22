@@ -32,3 +32,12 @@ QuoraPosts/
 
 ---
 
+## How to Run
+1. Clone the repository
+2. Install dependencies with `npm install`
+3. Start the server with `nodemon app.js`
+4. Open `http://localhost:8080` in your browser
+
+## Author
+Navyashree J S
+
